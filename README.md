@@ -1,6 +1,6 @@
 <h1>VintaSoft TWAIN Simple Demo</h1>
 
-Demo application shows how to acquire images from TWAIN device using only ten strings of code. Demo uses functionality of <a href="http://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft Twain .NET SDK</a>. Source codes for C# and VB.NET are available.
+Demo application shows how to acquire images from TWAIN device in WinForms using a few strings of code. Demo uses functionality of <a href="http://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft Twain .NET SDK</a>. Source codes for C# and VB.NET are available.
 
 <h2>Screenshot</h2>
 <img src=http://www.vintasoft.com/images/screenshots/twain/vintasoft-twain-simple-demo.png alt="VintaSoft TWAIN Simple Demo">
