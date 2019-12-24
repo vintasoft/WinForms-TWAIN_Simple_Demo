@@ -1,4 +1,4 @@
-using Vintasoft.Twain;
+﻿using Vintasoft.Twain;
 namespace TwainSimpleDemo
 {
     partial class MainForm
@@ -106,7 +106,9 @@ namespace TwainSimpleDemo
             this.Controls.Add(this.scanImagesButton);
             this.Controls.Add(this.pictureBox1);
             this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VintaSoft TWAIN Simple Demo";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
