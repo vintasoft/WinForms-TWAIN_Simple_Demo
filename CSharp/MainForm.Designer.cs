@@ -1,4 +1,4 @@
-﻿using Vintasoft.Twain;
+﻿using Vintasoft.WinTwain;
 namespace TwainSimpleDemo
 {
     partial class MainForm
