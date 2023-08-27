@@ -20,6 +20,9 @@ namespace TwainSimpleDemo
 
         public MainForm()
         {
+            // register the evaluation license for VintaSoft TWAIN .NET SDK
+            Vintasoft.Twain.TwainGlobalSettings.Register("REG_USER", "REG_EMAIL", "EXPIRATION_DATE", "REG_CODE");
+
             InitializeComponent();
 
             this.Text = string.Format("VintaSoft TWAIN Simple Demo v{0}", TwainGlobalSettings.ProductVersion);
