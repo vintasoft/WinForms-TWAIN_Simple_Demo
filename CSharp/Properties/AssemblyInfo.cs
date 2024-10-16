@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("VintaSoft TWAIN Simple Demo")]
 [assembly: AssemblyDescription("TWAIN simple demo")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("VintaSoft Ltd.")]
+[assembly: AssemblyCompany("VintaSoft Llc.")]
 [assembly: AssemblyProduct("Twain Simple Demo")]
-[assembly: AssemblyCopyright("Copyright VintaSoft Ltd. 2024")]
+[assembly: AssemblyCopyright("Copyright VintaSoft Llc. 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
