@@ -76,7 +76,7 @@
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
-    <PackageReference Include="Vintasoft.WinTwain" Version="15.5.0.1" />
+    <PackageReference Include="Vintasoft.WinTwain" Version="15.5.1.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainForm.cs">
